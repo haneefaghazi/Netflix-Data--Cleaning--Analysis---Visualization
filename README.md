@@ -1,0 +1,2 @@
+# Netflix Data: Cleaning, Analysis and Visualization
+ This project focuses on the analysis and visualization of Netflix’s movie and TV show data. By cleaning raw data, handling missing values, and applying analytical techniques, the goal is to uncover key insights into Netflix's content, such as trends in genres, release years, and viewer ratings. Through data visualization, the project also highlights patterns in viewing habits, content diversity, and global reach.
